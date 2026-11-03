@@ -1,0 +1,25 @@
+SELECT * FROM Countries C WHERE C.CountryID COLLATE Latin1_General_CI_AI LIKE '';
+SELECT * FROM Contacts;
+
+UPDATE Countries
+SET CountryName = ''
+WHERE CountryID = 1;
+
+INSERT INTO Countries
+VALUES ('');
+
+SELECT SCOPE_IDENTITY();
+
+IF EXISTS (SELECT 1 FROM Countries WHERE CountryID = 1)
+BEGIN 
+	SELECT 1
+END
+ELSE 
+BEGIN
+	SELECT 0
+END
+
+ALTER TABLE Countries 
+DROP COLUMN Code, PhoneCode;
+
+

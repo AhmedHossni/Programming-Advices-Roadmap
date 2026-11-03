@@ -1,0 +1,5 @@
+﻿  Hadhoad Course (05) Problems #1to#10.cpp
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10.cpp(171,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10.cpp(237,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10\Hadhoad Course (05) Problems #1to#10.cpp(300,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Hadhoad Course (05) Problems #1to#10.vcxproj -> C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (05) Problems #1to#10\x64\Debug\Hadhoad Course (05) Problems #1to#10.exe

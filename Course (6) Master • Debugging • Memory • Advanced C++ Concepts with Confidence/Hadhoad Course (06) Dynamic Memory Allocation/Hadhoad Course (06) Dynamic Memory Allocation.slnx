@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hadhoad Course (06) Dynamic Memory Allocation/Hadhoad Course (06) Dynamic Memory Allocation.vcxproj" />
+</Solution>

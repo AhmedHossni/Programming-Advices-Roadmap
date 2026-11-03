@@ -1,0 +1,2 @@
+First file stream in write mode
+file stream write new line

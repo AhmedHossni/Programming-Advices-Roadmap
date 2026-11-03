@@ -1,0 +1,8 @@
+*.ipch
+.vs/
+# .NET Build Results
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo

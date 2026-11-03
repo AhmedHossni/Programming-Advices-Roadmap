@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArrayOfStructExample/ArrayOfStructExample.vcxproj" Id="19082620-c24f-4fa5-950d-be1c4cc91c9d" />
+</Solution>

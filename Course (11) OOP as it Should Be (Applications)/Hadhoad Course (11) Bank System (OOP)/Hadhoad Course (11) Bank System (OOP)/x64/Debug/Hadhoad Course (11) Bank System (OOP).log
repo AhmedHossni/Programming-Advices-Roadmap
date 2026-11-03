@@ -1,0 +1,50 @@
+﻿  Hadhoad Course (11) Bank System (OOP).cpp
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsBankClient.h(363,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\Hadhoad Course (11) Bank System (OOP)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Hadhoad%20Course%20(11)%20Bank%20System%20(OOP).cpp')
+  
+  Hadhoad Course (11) Bank System (OOP).vcxproj -> C:\Users\Ahmed Hossny\Desktop\CPP Code\Hadhoad Course (11) Bank System (OOP)\x64\Debug\Hadhoad Course (11) Bank System (OOP).exe
