@@ -36,7 +36,7 @@
             // 
             this.ctrlTrafficLight1.CurrentLight = Traffic_Light_Project_Idea__Traffic_Light_User_Control_.ctrlTrafficLightByTasks.TrafficLightColors.Red;
             this.ctrlTrafficLight1.GreenTime = ((short)(1));
-            this.ctrlTrafficLight1.Location = new System.Drawing.Point(72, 11);
+            this.ctrlTrafficLight1.Location = new System.Drawing.Point(94, 12);
             this.ctrlTrafficLight1.Name = "ctrlTrafficLight1";
             this.ctrlTrafficLight1.OrangeTime = ((short)(1));
             this.ctrlTrafficLight1.RedTime = ((short)(1));
@@ -47,7 +47,7 @@
             // 
             this.ctrlTrafficLight2.Color = Traffic_Light_Project_Idea__Traffic_Light_User_Control_.ctrlTrafficLight.TrafficLightColors.Red;
             this.ctrlTrafficLight2.GreenTime = ((short)(1));
-            this.ctrlTrafficLight2.Location = new System.Drawing.Point(378, 11);
+            this.ctrlTrafficLight2.Location = new System.Drawing.Point(381, 12);
             this.ctrlTrafficLight2.Name = "ctrlTrafficLight2";
             this.ctrlTrafficLight2.OrangeTime = ((short)(1));
             this.ctrlTrafficLight2.RedTime = ((short)(1));
@@ -58,6 +58,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(667, 301);
             this.Controls.Add(this.ctrlTrafficLight2);
             this.Controls.Add(this.ctrlTrafficLight1);

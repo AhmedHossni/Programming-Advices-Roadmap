@@ -15,7 +15,7 @@ namespace Traffic_Light_Project_Idea__Traffic_Light_User_Control_
             ctrlTrafficLight1.Start();
             ctrlTrafficLight2.Start();
 
-            int timeToStop = 20 * 1000;
+            int timeToStop = 5 * 1000;
 
             Task.Run(() => 
             {
